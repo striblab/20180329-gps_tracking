@@ -3,9 +3,6 @@
 Google Maps tracks your smartphones every move. Here&#39;s what that looks like.
 
 
-
-
-
 ## Embed
 
 This project is best used as a full, standalone page, or an embed.  The best way to embed the piece is with the following code:
